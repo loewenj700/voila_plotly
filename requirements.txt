@@ -1,4 +1,4 @@
+voila
+ipywidgets
 pandas
 plotly
-ipywidgets
-voila
